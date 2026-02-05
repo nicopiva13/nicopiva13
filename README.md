@@ -71,5 +71,4 @@ Lidero el desarrollo y mantenimiento de aplicaciones web integrales para gestió
 ### 📊 Estadísticas
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicopiva13&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicopiva13&theme=tokyonight" />
 </p>
