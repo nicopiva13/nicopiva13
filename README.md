@@ -1,10 +1,22 @@
-# ¡Hola! 👋 Soy Nicolas Piva
+<div align="center">
+  <h1>¡Hola! 👋 Soy Nicolas Piva</h1>
+  
+  <h3>Full Stack Developer | Villa María, Córdoba, Argentina 🇦🇷</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-FF5733?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Villa%20María,%20Córdoba-0081C8?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Argentina-🇦🇷-white?style=for-the-badge" />
-</p>
+  <p>
+    <a href="https://linkedin.com/in/nicolaspiva" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:nicopiva13@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://wa.me/543535621468" target="_blank">
+      <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+  </p>
+</div>
+
+---
 
 ### 📬 Conéctate conmigo:
 <p align="left">
