@@ -68,10 +68,8 @@ Lidero el desarrollo y mantenimiento de aplicaciones web integrales para gestió
 
 ---
 
-### 🏆 Logros y Racha
+### 📊 Estadísticas
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicopiva13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicopiva13&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicopiva13&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicopiva13&theme=tokyonight" />
 </p>
