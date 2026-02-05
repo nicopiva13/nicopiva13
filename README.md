@@ -2,18 +2,6 @@
 
 ### Full Stack Developer | Villa María, Córdoba, Argentina.
 
-<p align="left">
-  <a href="https://linkedin.com/in/nicolaspiva" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:nicopiva13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/543535621468" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
-
 ---
 
 ### 📬 Conéctate conmigo:
