@@ -28,8 +28,9 @@ Más allá del código, me motiva entender el "porqué" de cada feature y aporta
 
 ### 🚀 Proyectos y Experiencia
 
-#### **Súmate (App)**
-*Red social geolocalizada para conectar a la comunidad "matera".*
+#### **[Súmate (App)](https://appsumate.com)**
+*Red social geolocalizada para conectar a la comunidad "matera".* 🔗 **Web:** [appsumate.com](https://appsumate.com)
+
 Un ecosistema mobile que permite a los usuarios encontrar rondas de mate cercanas, gestionar su "kit matero" y conectar con otros usuarios en tiempo real.
 * **Mobile:** Desarrollo nativo de alto rendimiento con **Flutter**.
 * **Backend:** Microservicios en **Go** para máxima velocidad y concurrencia.
@@ -51,7 +52,6 @@ Lidero el desarrollo y mantenimiento de aplicaciones web integrales para gestió
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 #### **Frontend & Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -62,6 +62,7 @@ Lidero el desarrollo y mantenimiento de aplicaciones web integrales para gestió
 
 #### **Data & DevOps**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
