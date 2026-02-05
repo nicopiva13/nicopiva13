@@ -29,15 +29,16 @@ Más allá del código, me motiva entender el "porqué" de cada feature y aporta
 ### 🚀 Proyectos y Experiencia
 
 #### **[Súmate (App)](https://appsumate.com)**
-*Red social geolocalizada para conectar a la comunidad "matera".* 🔗 **Web:** [appsumate.com](https://appsumate.com)
+*Red social geolocalizada para conectar a la comunidad "matera".*
 
 Un ecosistema mobile que permite a los usuarios encontrar rondas de mate cercanas, gestionar su "kit matero" y conectar con otros usuarios en tiempo real.
 * **Mobile:** Desarrollo nativo de alto rendimiento con **Flutter**.
 * **Backend:** Microservicios en **Go** para máxima velocidad y concurrencia.
 * **Geo:** Implementación de **PostgreSQL + PostGIS** para consultas espaciales precisas.
 
-#### **Maser Informática**
+#### **[Maser Informática](https://www.maserinformatica.com/index.php)**
 *Desarrollo Full Stack y Mantenimiento de Sistemas.*
+
 Lidero el desarrollo y mantenimiento de aplicaciones web integrales para gestión y e-commerce.
 * **Infraestructura:** Administración de VPS y despliegues en producción (99.9% uptime).
 * **Integración:** Diseño de **APIs REST** complejas y sincronización de datos en tiempo real.
