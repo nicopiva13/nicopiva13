@@ -17,10 +17,10 @@
 ### 💡 Sobre mí
 Soy un **Full Stack Developer** con +3 años de experiencia transformando ideas en productos reales, en producción y con usuarios. Trabajo de punta a punta: desde **APIs y paneles web** (PHP/Laravel, Node, React/Next.js, Angular) hasta **apps mobile** (Flutter), siempre buscando el equilibrio entre código limpio y performance.
 
-Más allá del código, me motiva entender el "porqué" de cada feature y aportar valor real al negocio. Disfruto del trabajo en equipo, la honestidad técnica y, por supuesto, un buen mate mientras pienso cómo automatizar procesos o mejorar una arquitectura.
+Más allá del código, me motiva entender el "porqué" de cada feature y aportar valor real al negocio. Disfruto del trabajo en equipo, la honestidad técnica y las buenas prácticas mientras pienso cómo automatizar procesos o mejorar una arquitectura.
 
 - 🏗️ **Lo que hago:** Desarrollo productos SaaS y de e-commerce propios en **DoctaInnova** (Tiendoo, GymAr).
-- 🔭 **En qué ando:** También desarrollo **Súmate**, una red social mobile con geolocalización en tiempo real.
+- 🔭 **En qué ando:** Nuevos productos y funcionalidades para pymes en **DoctaInnova**.
 - 🌱 **Explorando:** Profundizando en **Go, Flutter y Arquitecturas Distribuidas**.
 
 ---
@@ -49,14 +49,6 @@ Administración de socios, cuotas, control de accesos y métricas, con app insta
 Plataforma de venta mayorista con gestión de catálogo y pedidos.
 * **Backend:** **API REST en PHP (Laravel)** para productos, clientes y pedidos.
 * **Enfoque:** Modelo B2B con listas de precios y flujos de pedido mayorista.
-
-#### **[Súmate (App)](https://appsumate.com)**
-*Red social geolocalizada para conectar a la comunidad "matera".*
-
-Un ecosistema mobile que permite a los usuarios encontrar rondas de mate cercanas, gestionar su "kit matero" y conectar con otros usuarios en tiempo real.
-* **Mobile:** Desarrollo de alto rendimiento con **Flutter**.
-* **Backend:** Microservicios en **Go** para máxima velocidad y concurrencia.
-* **Geo:** Implementación de **PostgreSQL + PostGIS** para consultas espaciales precisas.
 
 #### **[Maser Informática](https://www.maserinformatica.com/index.php)**
 *Desarrollo Full Stack y Mantenimiento de Sistemas.*
